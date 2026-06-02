@@ -1,0 +1,8 @@
+{
+  "name": "Prow",
+  "short_name": "Prow",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07090E",
+  "theme_color": "#07090E"
+}
