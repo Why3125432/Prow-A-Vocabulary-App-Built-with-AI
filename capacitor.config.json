@@ -1,0 +1,11 @@
+{
+  "appId": "com.Prow.app",
+  "appName": "Prow",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#07090E"
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
